@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# airfare-aware
-A Python-based utility to monitor airfare prices and alert travelers to travel deals.
-=======
 # Airfare Tracker 1.0
 
 **A Python-based utility to monitor airfare prices and alert travelers to travel deals.**
@@ -32,4 +28,3 @@ Development begins in Python with a planned port to Rust in the future.
    ```bash
    python src/main.py
    ```
->>>>>>> 2aea404 (add start files)
