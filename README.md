@@ -23,6 +23,9 @@ Development begins in Python with a planned port to Rust in the future.
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   # the requirements include Playwright; after installing the Python package,
+   # you also need to fetch browser binaries:
+   python -m playwright install
    ```
 4. Run the app:
    ```bash
